@@ -1,11 +1,7 @@
-cv2
+opencv-python
 numpy
-argparse
-random
-matplotlib.pyplot
-math
+matplotlib
+python-math
 imutils
-sys
-tkinter
 customtkinter
-PIL
+Pillow
