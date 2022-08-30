@@ -10,7 +10,7 @@ APLICACIÓN DE TRATAMIENTO DE MACIZOS ROCOSOS.
 - Descargando este repositorio e instalando los requisitos.
 
 ¿Cómo se ejecuta?
-- 
+- Información en el manual de usuario
 
 ¿Qué requisitos tiene?
 - Debes tener instalado Python 3.8 o superior y pip para instalar los módulos.

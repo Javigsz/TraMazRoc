@@ -350,8 +350,7 @@ class MainApplication(tkinter.Tk):
             
         else:
 
-            if (text and self.has_numbers(text)) or (text2 and self.has_numbers(text2)):
-
+            if (text and self.has_numbers(text) and text2 == '') or (text2 and self.has_numbers(text2) and text == '') or (text and text2 and self.has_numbers(text) and self.has_numbers(text2)):
                 #Si existe imagen y la escala es correcta
 
                 #Se vacia la imagen anterior en caso de que se haya introducido otra imagen distinta
@@ -542,7 +541,6 @@ class MainApplication(tkinter.Tk):
                 #Si no existe escala o no es valida, se le notifica al usuario en una nueva ventana
 
                 popout.PopOut(self, "Introduce una escala válida")
-
 
 
     #Funcion que se ejecuta cuando se cierra la ventana principal del programa
