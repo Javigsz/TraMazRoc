@@ -281,7 +281,7 @@ class MainApplication(tkinter.Tk):
         message = 'Aplicación de tratamiento de macizos rocosos.\n\n Instrucciones:'\
         '\n - Sube una imagen de un macizo rocoso. \n- Escribe una escala valida (entre 50 y 1000 cm)'\
         '\n- Presiona el boton Procesar.'\
-        '\n- La imagen deberá tener una calidad decente y un \n tamaño superior a 800x800 para un funcionamiento\n correcto del programa.\n'
+        '\n- La imagen deberá tener una buena calidad y un \n tamaño superior a 800x800 para un funcionamiento\n correcto del programa.\n'
 
         popout.PopOut(self,message)
 
