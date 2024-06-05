@@ -1,6 +1,5 @@
 APLICACIÓN DE TRATAMIENTO DE MACIZOS ROCOSOS.
-https://youtu.be/HWzfsycHFds
-
+[![link](https://img.youtube.com/vi/HWzfsycHFds/0.jpg)](https://www.youtube.com/watch?v=HWzfsycHFds)
 ¿Para qué sirve la aplicación?
 - Calcula el GSI de un macizo rocoso a partir de una imagen de dicho macizo y la distancia (en cm) que abarca la imagen.
 
